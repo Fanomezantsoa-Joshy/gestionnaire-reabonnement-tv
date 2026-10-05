@@ -1,0 +1,15 @@
+# Fichiers generes par Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+
+# Fichiers utilisateur
+*.user
+*.suo
+*.cache
+
+# Fichiers temporaires
+*.tmp
+*.log
+Thumbs.db
+.DS_Store

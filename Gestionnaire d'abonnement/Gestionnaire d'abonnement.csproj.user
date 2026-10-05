@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Abonnement1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Abonnement2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Abonnement3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Abonnement4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Airtel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ajoutChaine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="changerMdp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ConnexionAdmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="creerCompteAdmin1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="creerCompteAdmin2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="enEspece.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Historique.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="interfacePrincipale.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="listeChaine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="listeOffre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="mdpOublier1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="mdpOublier2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="mobileMonaie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="modChaine.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="modMonCompte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="modOffre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="monCompte.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Mvola.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="nouveauClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="modClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="listeClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="nouveauClient2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="nouveauClient3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="nouveauOffre.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Orange.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StreamLine.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
